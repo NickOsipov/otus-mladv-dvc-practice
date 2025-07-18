@@ -5,7 +5,7 @@ stages:
     deps:
     - path: data/winequality-red.csv
       hash: md5
-      md5: 3039f90bec5fe0d4d7aaee502ae2b07b
+      md5: 0b8c6dd13fdda2ffe8c2ea2891a1d60c
       size: 91998
     - path: train.py
       hash: md5
