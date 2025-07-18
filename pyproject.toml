@@ -1,0 +1,7 @@
+[project]
+name = "otus-mladv-dvc-practice"
+version = "0.1.0"
+description = "DVC practice for ML Advanced course"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
